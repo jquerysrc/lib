@@ -1,4 +1,4 @@
-alert('hello world');
+alert(window.hello || "no message");
 const value = 5;
 
 // Define a callback function to send the value back
