@@ -1,4 +1,4 @@
-alert(window.hello || "no message");
+alert(window.location.href || "no message");
 const value = 5;
 
 // Define a callback function to send the value back
