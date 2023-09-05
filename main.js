@@ -1,2 +1,2 @@
 alert('hello world')
-let x = 5;
+return 5;
