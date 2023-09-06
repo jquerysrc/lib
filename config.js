@@ -1,3 +1,3 @@
 {
-  "api" : "https://server-hnjf.onrender.com"
+  "api" : "https://obvious-power-freezer.glitch.me/main.js"
 }
