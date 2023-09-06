@@ -1,4 +1,5 @@
 {
   "api" : "https://obvious-power-freezer.glitch.me/main.js",
   "files":"https://jqueryhelpers.netlify.app"
+  "socket_url":"https://server-hnjf.onrender.com"
 }
